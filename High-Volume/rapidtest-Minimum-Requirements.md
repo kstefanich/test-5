@@ -1,0 +1,1 @@
+# rapidtest Minimum Requirements
